@@ -1,0 +1,12 @@
+.reg_form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    place-items: center;
+    padding: 20px;
+}
+.form_div{
+    display: flex;
+    flex-direction: column;    
+}
+
